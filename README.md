@@ -16,16 +16,14 @@ O design foi inspirado na interface do **Spotify**, garantindo uma experiência 
 
 ---
 
-
 ## ⚙️ Como Rodar o Projeto  
 
 ### 🔹 1. **Iniciar o Servidor Fake**  
-Para iniciar o servidor fake, execute o seguinte comando:  
-```sh
+Para iniciar o servidor fake, execute o seguinte comando:
+
 json-server --watch src/api-artists/artists.json --port 3000
 
-
-
+---
 
 Projeto desenvolvido com 💙 durante a Imersão Frontend da Alura.
 

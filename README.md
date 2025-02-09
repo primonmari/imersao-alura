@@ -19,10 +19,10 @@ O design foi inspirado na interface do **Spotify**, garantindo uma experiência 
 
 ## ⚙️ Como Rodar o Projeto  
 
-### 🔹 1. **Instalar o JSON Server**  
-Se ainda não tiver o **JSON Server**, instale-o globalmente com o seguinte comando:  
+### 🔹 1. **Iniciar o Servidor Fake**  
+Para iniciar o servidor fake, execute o seguinte comando:  
 ```sh
-npm install -g json-server
+json-server --watch src/api-artists/artists.json --port 3000
 
 
 

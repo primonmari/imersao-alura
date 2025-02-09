@@ -24,10 +24,6 @@ Se ainda não tiver o **JSON Server**, instale-o globalmente com o seguinte coma
 ```sh
 npm install -g json-server
 
-### 🔹 2. **Iniciar o Servidor Fake**  
-Para iniciar o servidor fake, execute o seguinte comando:  
-```sh
-json-server --watch src/api-artists/artists.json --port 3000
 
 
 

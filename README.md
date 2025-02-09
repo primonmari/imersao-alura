@@ -27,3 +27,8 @@ json-server --watch src/api-artists/artists.json --port 3000
 
 
 
+Projeto desenvolvido com 💙 durante a Imersão Frontend da Alura.
+
+
+
+

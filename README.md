@@ -20,9 +20,8 @@ O design foi inspirado na interface do **Spotify**, garantindo uma experiência 
 
 ---
 
-## ⚙️ Como Rodar o Projeto  
+## ⚙️ Iniciar o Servidor Fake  
 
-### 🔹 1. **Iniciar o Servidor Fake**  
 Para iniciar o servidor fake, execute o seguinte comando:
 
 json-server --watch src/api-artists/artists.json --port 3000
